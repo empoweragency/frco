@@ -16,7 +16,7 @@ export default function Home() {
         <Header title="About Forest Row" />
         <hr />
 <div class="entry-content wp-block-post-content has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained">
-<p><a href="https://forestrow.co/">Forest Ro2w</a>, originally a small hamlet that grew up at one of the “gates” of <a href="https://forestrow.co/ashdown-forest/" data-type="post" data-id="300">Ashdown Forest</a> where the turnpike road (now the A22) began its climb up the forest ridge, the village of Forest Row has grown gradually over the past 150 years or so. </p>
+<p><a href="https://forestrow.co/">Forest Row</a>, originally a small hamlet that grew up at one of the “gates” of <a href="https://forestrow.co/ashdown-forest/" data-type="post" data-id="300">Ashdown Forest</a> where the turnpike road (now the A22) began its climb up the forest ridge, the village of Forest Row has grown gradually over the past 150 years or so. </p>
 <p>Much of its growth was due to the arrival of the railway in 1866 and the founding of the golf club in 1888.&nbsp; For 100 years the village had a direct train service to London but sadly <a href="https://forestrow.co/forest-row-station/" data-type="post" data-id="255">Forest Row Railway Station</a> was an early casualty of the “Beeching Axe”. </p>
 <p>The steady growth of Forest Row has, however, continued with a population in the parish of nearly 5,500 at the last census.</p>
 <p>The village has retained much of its rural character and is a pleasant mixture of old and new, with traditional Sussex cottages and pleasing modern developments. There are several village greens carefully preserved and maintained by the Parish Council giving an attractive open appearance.</p>
